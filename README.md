@@ -7,4 +7,4 @@
 - Normalization: stemming and lemmazation
 
 ## 2. Tfidf and Bag-of-word method
-[Link]
+[Link](https://github.com/ChiYeungLaw/myNLP/tree/master/Tfidf-BoW)
