@@ -5,3 +5,6 @@
 - Segementation
 - Cleaning
 - Normalization: stemming and lemmazation
+
+## 2. Tfidf and Bag-of-word method
+[Link]
