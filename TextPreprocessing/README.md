@@ -1,4 +1,4 @@
-# 1. EnglishTextPreprocessing.ipynb file
+# `EnglishTextPreprocessing` file
 
 Use NLTK to preprocess English text
 - Segementation 
