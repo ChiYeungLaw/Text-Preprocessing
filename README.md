@@ -5,6 +5,7 @@
 - Segementation
 - Cleaning
 - Normalization: stemming and lemmazation
+- Remove Punctuation
 
 ## 2. Tfidf and Bag-of-word method
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/Tfidf-BoW)
