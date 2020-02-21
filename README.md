@@ -9,3 +9,6 @@
 
 ## 2. Tfidf and Bag-of-word method
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/Tfidf-BoW)
+
+## 3. Traditional Chinese to Simplified Chinese
+[Link]()
