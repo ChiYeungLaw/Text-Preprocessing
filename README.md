@@ -12,3 +12,7 @@
 
 ## 3. Traditional Chinese to Simplified Chinese
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/TraditionalToSimplified)
+
+## 4. Distributed Word Embeddings
+[Link]()
+- Word2Vec: SkipGram + Negative Sampling
