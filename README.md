@@ -16,3 +16,4 @@
 ## 4. 词嵌入模型（Distributed Word Embeddings）
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/DistributedWordEmbedding)
 - Word2Vec: SkipGram + Negative Sampling
+- Word2Vec: CBOW + Negative Sampling
