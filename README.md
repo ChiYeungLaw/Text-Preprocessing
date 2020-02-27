@@ -14,5 +14,5 @@
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/TraditionalToSimplified)
 
 ## 4. Distributed Word Embeddings
-[Link]()
+[Link](https://github.com/ChiYeungLaw/myNLP/tree/master/DistributedWordEmbedding)
 - Word2Vec: SkipGram + Negative Sampling
