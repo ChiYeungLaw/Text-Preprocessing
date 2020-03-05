@@ -19,3 +19,4 @@
 - Word2Vec: CBOW + Negative Sampling (Pytorch)
 - Word2Vec: CBOW + Hierarchical (Numpy)
 - Word2Vec: SkipGram + Hierarchical (Numpy)
+- GloVe (Pytorch)
