@@ -1,4 +1,4 @@
-# 个人NLP项目记录（Personal NLP Projects collection）
+# 文本预处理
 
 ## 1. 英文文本预处理（English Text Preprocessing）
 [Link](https://github.com/ChiYeungLaw/myNLP/tree/master/TextPreprocessing)
